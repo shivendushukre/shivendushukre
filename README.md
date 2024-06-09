@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivendu Shukre</h1>
-<h3 align="center">I'm a third year Computer Engineering Undergraduate at Pune Institute of Computer Technology.</h3>
 
 - 📫 How to reach me **shivendu.shukre@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shivendu_shukre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivendu_shukre" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivendushukre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivendushukre" height="30" width="40" /></a>
 </p>
 
