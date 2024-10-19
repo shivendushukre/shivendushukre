@@ -9,7 +9,3 @@
 
 <a href="https://github.com/shivendushukre/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivendushukre&layout=compact&theme=buefy&hide_border=true" /></a>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/shivendushukre/count.svg" />
-</p>
