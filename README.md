@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivendu Shukre</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 📫 How to reach me **shivendu.shukre@gmail.com**
 
