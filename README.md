@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shivendu Shukre</h1>
+<h1 align="center">Hey 👋, I'm Shivendu Shukre</h1>
 
-- I am currently working on few backend projects using Java, SpringBoot, MySQL database stack.
+- I am currently working on few backend projects using Java, SpringBoot, MySQL databases.
+- Beyond coding, I explore sports, fitness, music, nutrition, and self-help books.
 - 📫 How to reach me **shivendu.shukre@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
