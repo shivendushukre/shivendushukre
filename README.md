@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivendu Shukre</h1>
 
+- I am currently working on few backend projects using Java, SpringBoot, MySQL database stack.
 - 📫 How to reach me **shivendu.shukre@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
